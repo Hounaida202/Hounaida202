@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=C71585&center=true&vCenter=true&width=435&lines=System.out.println(%22Honaida%22);+%2F%2F+hello+world" alt="Typing SVG" />
 </p>
 
-<h1 align="center">System.out.println(<span style="color:#C71585">"Honaida"</span>);</h1>
+<h1 align="center">System.out.println(<span style="color:#C71585">"Hounaida"</span>);</h1>
 
 <p align="center" style="color:#9b8faa; font-style:italic;">
   Java & Spring Developer — turning logic into beautiful software
