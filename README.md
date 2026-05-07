@@ -31,3 +31,10 @@
   <img src="https://img.shields.io/badge/HTML-0d0d0f?style=flat-square&logo=html5&logoColor=ff9ed4"/>
   <img src="https://img.shields.io/badge/CSS-0d0d0f?style=flat-square&logo=css3&logoColor=ff9ed4"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=honaidaetrichi&label=views&color=C71585&style=flat-square" />
+</p>
+
+<p align="center" style="color:#9b8faa; font-style:italic; font-size:12px;">
+  building backend systems with ☕ & curiosity
+</p>
